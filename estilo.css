@@ -5,6 +5,7 @@
    --quarta-cor:#ffff;
    --cor-de-fundo : #29204D;
    --cor-botao:#9256e6;
+   --cor-dos-cards:#FFFBF0;
 }
 
 
@@ -39,7 +40,7 @@ h1{
     
 }
 .cards{
-    background-color: var(--quarta-cor);
+    background-color: var(--cor-dos-cards);
     height: 320px;
     width: 320px;
     border-radius: 10px;
